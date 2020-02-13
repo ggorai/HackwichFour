@@ -56,6 +56,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="ni6-5P-0Xk"/>
                     <connections>
+                        <outlet property="ThirdLabel" destination="rP3-TE-uyq" id="mzz-yg-Mhb"/>
                         <outlet property="secondLabel" destination="qve-b4-Ds2" id="dlk-dY-tzy"/>
                     </connections>
                 </viewController>

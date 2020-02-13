@@ -10,12 +10,15 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
-    @IBOutlet weak var secondLabel: UILabel!
+    @IBOutlet weak var ThirdLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
+    
+    
+      self.ThirdLabel.text = "My Favorite Foods"
     }
+
     
 
     /*
